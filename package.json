@@ -19,5 +19,8 @@
   "volta": {
     "node": "18.12.1",
     "npm": "8.15.0"
+  },
+  "dependencies": {
+    "jQuery": "^1.7.4"
   }
 }

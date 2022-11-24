@@ -4,7 +4,7 @@ import legacy from '@vitejs/plugin-legacy';
 export default defineConfig({
   server: {
     port: 8080,
-    open: '/index.html',
+    open: '/src/index.html',
   },
   plugins: [
     legacy({
